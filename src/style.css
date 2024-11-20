@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+htm {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Noto Sans Lao", sans-serif;
+}
